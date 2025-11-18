@@ -101,6 +101,6 @@ The Android application was successfully developed to:
 
 ## 📘 Student Details  
 
-> **Name:** *Ridham Patel*  
-> **Enrollment:** *23012021041*  
+> **Name:** *Bhavya Patel*  
+> **Enrollment:** *23012021031*  
 > **Batch:** *5IT-B-1*  
