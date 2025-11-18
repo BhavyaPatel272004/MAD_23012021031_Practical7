@@ -74,7 +74,7 @@ Store Person Data locally:
 
 | Screenshot | Description |
 |------------|-------------|
-| <p align="center"/><img src="" alt="Main Screen" width="250"/> | **Main Screen** contains buttons to fetch JSON data from web API and view stored data in RecyclerView. |
+| <p align="center"/><img src="https://github.com/BhavyaPatel272004/MAD_23012021031_Practical7/blob/master/Screensorts/json.jpeg" alt="Main Screen" width="250"/> | **Main Screen** contains buttons to fetch JSON data from web API and view stored data in RecyclerView. |
 
 ---
 
